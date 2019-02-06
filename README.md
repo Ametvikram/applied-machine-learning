@@ -1,6 +1,4 @@
-# Applied Machine Learning
-
-Workshop information @ http://amitkaps.com/ml
+# Applied Machine Learning - Case Studies
 
 - [Curriculum](curriculum.md) - The scope of the workshop.
 - [Installation](installation.md) - To get the software installed for the workshop.
